@@ -1,0 +1,28 @@
+/* TODO Add site wide styles */
+.header {
+  position: relative;
+  width: 1400px;
+  height: 46px;
+}
+
+.logo {
+  position: fixed;
+}
+
+.navs {
+  position: relative;
+  left: 570px;
+  display: flex;
+  justify-content: space-around;
+  top: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav {
+  cursor: pointer;
+}
+
+.restaurant {
+  width: 1904px;
+  height: 400px;
+}
